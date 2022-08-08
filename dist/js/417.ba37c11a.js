@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkshop"]=self["webpackChunkshop"]||[]).push([[417],{8417:function(n,u,e){e.r(u),e.d(u,{default:function(){return h}});var l=function(){var n=this,u=n._self._c;return u("div",[n._v("团购订单")])},s=[],t={},r=t,c=e(1001),f=(0,c.Z)(r,l,s,!1,null,null,null),h=f.exports}}]);
